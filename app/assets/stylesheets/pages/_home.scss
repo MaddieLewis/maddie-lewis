@@ -1,1 +1,11 @@
 // Specific CSS for your home-page
+.lines {
+  height: 300vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  z-index: 999;
+}
+
+.d-flex {
+  display: flex;
+}
